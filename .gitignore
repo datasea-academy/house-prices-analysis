@@ -1,0 +1,22 @@
+# --- Python System (Sampah Cache) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter Notebook (Wajib ada biar gak nyampah) ---
+.ipynb_checkpoints/
+
+# --- Virtual Environment (Folder Library Python) ---
+venv/
+env/
+.env
+.venv/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Data Files ---
+# Dataset House Prices ukurannya kecil, jadi boleh di-upload.
+# Kecuali kalau kamu download file zip kaggle utuh, baris bawah ini boleh dibuka:
+# *.zip
